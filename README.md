@@ -1,0 +1,2 @@
+# Boch_etal_2017_ICESJMS
+Fertilization success data and associated experimental conditions (temperature, pH, and dissolved oxygen) for Boch, C. A., Litvin, S. Y., Micheli, F., De Leo, G., Aalto, E. A., Lovera, C., Woodson, C. B., Monismith, S., and Barry, J. P. 2017. Effects of current and future coastal upwelling conditions on the fertilization success of the red abalone (Haliotis rufescens). – ICES Journal of Marine Science, 74: 1125–1134. doi:10.1093/icesjms/fsx017
